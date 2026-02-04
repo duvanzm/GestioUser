@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "4e80",
+      "fullName": "juana",
+      "cedula": "1045113839",
+      "gender": "femenino",
+      "age": "24",
+      "phone": "30459362"
+    }
+  ]
+}
